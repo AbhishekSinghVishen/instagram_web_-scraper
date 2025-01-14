@@ -4,8 +4,8 @@ from selenium.webdriver.chrome.options import Options
 
 # ChromeDriver path
 CHROMEDRIVER_PATH = r"C:\chromedriver-win64\chromedriver.exe"
-INSTAGRAM_USERNAME = "test_tarjan"
-INSTAGRAM_PASSWORD = "@Singh9111"
+INSTAGRAM_USERNAME = "Your insta profile"
+INSTAGRAM_PASSWORD = "Your password"
 
 # Instagram Base URL
 BASE_URL = "https://www.instagram.com"
